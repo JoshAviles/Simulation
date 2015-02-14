@@ -1,0 +1,36 @@
+Mass properties of Rocket (backup) Dry
+     Configuration: Default
+     Coordinate system: -- default --
+
+Mass = 16.75 kilograms
+
+Volume = 0.01 cubic meters
+
+Surface area = 3.79 square meters
+
+Center of mass: ( meters )
+	X = 1.88
+	Y = 0.00
+	Z = 0.00
+
+Principal axes of inertia and principal moments of inertia: ( kilograms * square meters )
+Taken at the center of mass.
+	 Ix = (1.00, 0.00, 0.00)   	Px = 0.04
+	 Iy = (0.00, 0.92, 0.38)   	Py = 5.28
+	 Iz = (0.00, -0.38, 0.92)   	Pz = 5.28
+
+Moments of inertia: ( kilograms * square meters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 0.04	Lxy = -0.00	Lxz = -0.00
+	Lyx = -0.00	Lyy = 5.28	Lyz = 0.00
+	Lzx = -0.00	Lzy = 0.00	Lzz = 5.28
+
+Moments of inertia: ( kilograms * square meters )
+Taken at the output coordinate system.
+	Ixx = 0.04	Ixy = 0.00	Ixz = 0.00
+	Iyx = 0.00	Iyy = 64.60	Iyz = 0.00
+	Izx = 0.00	Izy = 0.00	Izz = 64.60
+
+One or more components have overridden mass properties:
+	Cesaroni N1800 (dry)<1><Default>
+	Payload simulated Mass<1><Default>@Payload<1><Default>
